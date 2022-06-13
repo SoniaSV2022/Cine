@@ -15,6 +15,7 @@
             <input class="" type="password" name="user_pass" required placeholder="Contraseña">
 
             <input class="btn btn-primary" role="button" type="submit" value="Iniciar Sesión">
+            <a href="nuevo_usuario.php">Registrarse<a/>
         </form>
 
     </body>
